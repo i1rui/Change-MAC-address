@@ -62,7 +62,7 @@ sudo python3 mac_changer.py -i eth0 -m 00:11:22:33:44:55
 [+] By N3cr0Sh3ll|Telegram:i1rui):
 [+] Changing MAC Address for eth0 to 00:11:22:33:44:55
 [+] MAC address has changed successfully to 00:11:22:33:44:55
-[+] By BlackSec|Telegram:i3xui):
+[+] By N3cr0Sh3ll|Telegram:i1rui):
 ```
 
 ---
