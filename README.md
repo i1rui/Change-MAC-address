@@ -36,13 +36,13 @@ cd Change-MAC-address
 ### 3. Run the script:
 
 ```bash
-sudo python3 mac_changer.py -i <interface> -m <new_mac>
+sudo python3 macaddres.py -i <interface> -m <new_mac>
 ```
 
 ### ✅ Example:
 
 ```bash
-sudo python3 mac_changer.py -i eth0 -m 00:11:22:33:44:55
+sudo python3 macaddres.py -i eth0 -m 00:11:22:33:44:55
 ```
 
 ---
