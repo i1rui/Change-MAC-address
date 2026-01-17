@@ -6,7 +6,7 @@ A simple Python script to change the MAC address of a network interface on Linux
 > ⚠️ **Disclaimer**: This tool is for educational and authorized testing purposes only. Changing your MAC address without permission may violate network or legal policies.
 
 ## 📌 Author
-- **By N3cr0Sh3ll**
+- **By N3ur0d**
 - Telegram: [@i1rui](https://t.me/i1rui)
 
 ---
